@@ -9466,6 +9466,12 @@ const ANSWERS = [
         ]
     },
     {
+        normalized: "けしこむ",
+        originals: [
+            "消しゴム",
+        ]
+    },
+    {
         normalized: "けしゆく",
         originals: [
             "下宿",
@@ -24919,6 +24925,12 @@ const ANSWERS = [
         ]
     },
     {
+        normalized: "のうみそ",
+        originals: [
+            "脳みそ",
+        ]
+    },
+    {
         normalized: "のうみつ",
         originals: [
             "濃密",
@@ -36311,5 +36323,9 @@ const ANSWERS = [
     {
         normalized: "かなさわ",
         originals: ["金沢"]
+    },
+    {
+        normalized: "うきよえ",
+        originals: ["浮世絵"]
     },
 ];
