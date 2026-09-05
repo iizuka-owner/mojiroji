@@ -332,18 +332,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "あくこう",
-        originals: [
-            "悪業",
-        ]
-    },
-    {
-        normalized: "あくさい",
-        originals: [
-            "悪妻",
-        ]
-    },
-    {
         normalized: "あくしゆ",
         originals: [
             "握手",
@@ -15558,12 +15546,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "すいかい",
-        originals: [
-            "水害",
-        ]
-    },
-    {
         normalized: "すいから",
         originals: [
             "吸い殻",
@@ -15585,13 +15567,6 @@ const ANSWERS = [
         normalized: "すいさい",
         originals: [
             "水彩",
-            "水災",
-        ]
-    },
-    {
-        normalized: "すいさん",
-        originals: [
-            "水産",
         ]
     },
     {
@@ -23616,27 +23591,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "なけいれ",
-        originals: [
-            "投げ入れ",
-        ]
-    },
-    {
         normalized: "なけうり",
         originals: [
             "投げ売り",
-        ]
-    },
-    {
-        normalized: "なけこみ",
-        originals: [
-            "投げ込み",
-        ]
-    },
-    {
-        normalized: "なけすて",
-        originals: [
-            "投げ捨て",
         ]
     },
     {
@@ -23832,18 +23789,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "なまやき",
-        originals: [
-            "生焼き",
-        ]
-    },
-    {
-        normalized: "なまやけ",
-        originals: [
-            "生焼け",
-        ]
-    },
-    {
         normalized: "なみおと",
         originals: [
             "波音",
@@ -23901,12 +23846,6 @@ const ANSWERS = [
         normalized: "なるほと",
         originals: [
             "なるほど",
-        ]
-    },
-    {
-        normalized: "なれあい",
-        originals: [
-            "なれ合い",
         ]
     },
     {
@@ -24645,12 +24584,6 @@ const ANSWERS = [
         normalized: "ねこした",
         originals: [
             "猫舌",
-        ]
-    },
-    {
-        normalized: "ねこすき",
-        originals: [
-            "猫好き",
         ]
     },
     {
@@ -28164,12 +28097,6 @@ const ANSWERS = [
         normalized: "ふかつめ",
         originals: [
             "深づめ",
-        ]
-    },
-    {
-        normalized: "ふかよい",
-        originals: [
-            "深酔い",
         ]
     },
     {
@@ -36272,5 +36199,117 @@ const ANSWERS = [
         originals: [
             "わんわん",
         ]
+    },
+    {
+        normalized: "あおもり",
+        originals: ["青森"]
+    },
+    {
+        normalized: "ふくしま",
+        originals: ["福島"]
+    },
+    {
+        normalized: "さいたま",
+        originals: ["埼玉"]
+    },
+    {
+        normalized: "かなかわ",
+        originals: ["神奈川"]
+    },
+    {
+        normalized: "にいかた",
+        originals: ["新潟"]
+    },
+    {
+        normalized: "いしかわ",
+        originals: ["石川"]
+    },
+    {
+        normalized: "やまなし",
+        originals: ["山梨"]
+    },
+    {
+        normalized: "しすおか",
+        originals: ["静岡"]
+    },
+    {
+        normalized: "きようと",
+        originals: ["京都"]
+    },
+    {
+        normalized: "おおさか",
+        originals: ["大阪"]
+    },
+    {
+        normalized: "ひようこ",
+        originals: ["兵庫"]
+    },
+    {
+        normalized: "わかやま",
+        originals: ["和歌山"]
+    },
+    {
+        normalized: "とつとり",
+        originals: ["鳥取"]
+    },
+    {
+        normalized: "おかやま",
+        originals: ["岡山"]
+    },
+    {
+        normalized: "ひろしま",
+        originals: ["広島"]
+    },
+    {
+        normalized: "やまくち",
+        originals: ["山口"]
+    },
+    {
+        normalized: "とくしま",
+        originals: ["徳島"]
+    },
+    {
+        normalized: "ふくおか",
+        originals: ["福岡"]
+    },
+    {
+        normalized: "なかさき",
+        originals: ["長崎"]
+    },
+    {
+        normalized: "くまもと",
+        originals: ["熊本"]
+    },
+    {
+        normalized: "おおいた",
+        originals: ["大分"]
+    },
+    {
+        normalized: "みやさき",
+        originals: ["宮崎"]
+    },
+    {
+        normalized: "かこしま",
+        originals: ["鹿児島"]
+    },
+    {
+        normalized: "さつほろ",
+        originals: ["札幌"]
+    },
+    {
+        normalized: "もりおか",
+        originals: ["盛岡"]
+    },
+    {
+        normalized: "せんたい",
+        originals: ["仙台"]
+    },
+    {
+        normalized: "よこはま",
+        originals: ["横浜"]
+    },
+    {
+        normalized: "かなさわ",
+        originals: ["金沢"]
     },
 ];
