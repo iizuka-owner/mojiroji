@@ -36328,4 +36328,16 @@ const ANSWERS = [
         normalized: "うきよえ",
         originals: ["浮世絵"]
     },
+    {
+        normalized: "ねふそく",
+        originals: ["寝不足"]
+    },
+    {
+        normalized: "したらく",
+        originals: ["自堕落"]
+    },
+    {
+        normalized: "みしたく",
+        originals: ["身支度"]
+    },
 ];
