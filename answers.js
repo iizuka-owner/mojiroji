@@ -35729,4 +35729,8 @@ const ANSWERS = [
         normalized: "みしたく",
         originals: ["身支度"]
     },
+     {
+        normalized: "しゆわき",
+        originals: ["受話器"]
+    },
 ];
