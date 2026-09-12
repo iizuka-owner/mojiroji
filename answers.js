@@ -2837,12 +2837,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "うりきれ",
-        originals: [
-            "売り切れ",
-        ]
-    },
-    {
         normalized: "うりもの",
         originals: [
             "売り物",
