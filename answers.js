@@ -640,12 +640,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "あしわい",
-        originals: [
-            "味わい",
-        ]
-    },
-    {
         normalized: "あすかり",
         originals: [
             "預かり",
@@ -703,12 +697,6 @@ const ANSWERS = [
         normalized: "あつあけ",
         originals: [
             "厚揚げ",
-        ]
-    },
-    {
-        normalized: "あつかい",
-        originals: [
-            "扱い",
         ]
     },
     {
@@ -1091,12 +1079,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "あらそい",
-        originals: [
-            "争い",
-        ]
-    },
-    {
         normalized: "あらため",
         originals: [
             "改め",
@@ -1308,27 +1290,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "いいあい",
-        originals: [
-            "言い合い",
-        ]
-    },
-    {
-        normalized: "いいかえ",
-        originals: [
-            "言い換え",
-        ]
-    },
-    {
         normalized: "いいくさ",
         originals: [
             "言いぐさ",
-        ]
-    },
-    {
-        normalized: "いいつけ",
-        originals: [
-            "言い付け",
         ]
     },
     {
@@ -2187,12 +2151,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "いれかえ",
-        originals: [
-            "入れ替え",
-        ]
-    },
-    {
         normalized: "いれすみ",
         originals: [
             "入れ墨",
@@ -2223,12 +2181,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "いろから",
-        originals: [
-            "色柄",
-        ]
-    },
-    {
         normalized: "いろこい",
         originals: [
             "色恋",
@@ -2253,21 +2205,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "いろむら",
-        originals: [
-            "色むら",
-        ]
-    },
-    {
         normalized: "いろもの",
         originals: [
             "色物",
-        ]
-    },
-    {
-        normalized: "いろわけ",
-        originals: [
-            "色分け",
         ]
     },
     {
@@ -2393,12 +2333,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "ういさん",
-        originals: [
-            "初産",
-        ]
-    },
-    {
         normalized: "ういしん",
         originals: [
             "初陣",
@@ -2447,12 +2381,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "うえしに",
-        originals: [
-            "飢え死に",
-        ]
-    },
-    {
         normalized: "うえすと",
         originals: [
             "ウエスト",
@@ -2498,18 +2426,6 @@ const ANSWERS = [
         normalized: "うくれれ",
         originals: [
             "ウクレレ",
-        ]
-    },
-    {
-        normalized: "うけあい",
-        originals: [
-            "請け合い",
-        ]
-    },
-    {
-        normalized: "うけいれ",
-        originals: [
-            "受け入れ",
         ]
     },
     {
@@ -2609,12 +2525,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "うたかい",
-        originals: [
-            "疑い",
-        ]
-    },
-    {
         normalized: "うたこえ",
         originals: [
             "歌声",
@@ -2636,12 +2546,6 @@ const ANSWERS = [
         normalized: "うたまね",
         originals: [
             "歌まね",
-        ]
-    },
-    {
-        normalized: "うちあい",
-        originals: [
-            "打ち合い",
         ]
     },
     {
@@ -2933,45 +2837,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "うりいえ",
-        originals: [
-            "売り家",
-        ]
-    },
-    {
-        normalized: "うりかた",
-        originals: [
-            "売り方",
-        ]
-    },
-    {
         normalized: "うりきれ",
         originals: [
             "売り切れ",
-        ]
-    },
-    {
-        normalized: "うりこみ",
-        originals: [
-            "売り込み",
-        ]
-    },
-    {
-        normalized: "うりたし",
-        originals: [
-            "売り出し",
-        ]
-    },
-    {
-        normalized: "うりとき",
-        originals: [
-            "売り時",
-        ]
-    },
-    {
-        normalized: "うりぬし",
-        originals: [
-            "売り主",
         ]
     },
     {
@@ -2984,12 +2852,6 @@ const ANSWERS = [
         normalized: "うりよう",
         originals: [
             "雨量",
-        ]
-    },
-    {
-        normalized: "うるおい",
-        originals: [
-            "潤い",
         ]
     },
     {
@@ -3020,12 +2882,6 @@ const ANSWERS = [
         normalized: "うわあこ",
         originals: [
             "上あご",
-        ]
-    },
-    {
-        normalized: "うわかわ",
-        originals: [
-            "上側",
         ]
     },
     {
@@ -3594,12 +3450,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "おいうち",
-        originals: [
-            "追い討ち",
-        ]
-    },
-    {
         normalized: "おいかせ",
         originals: [
             "追い風",
@@ -4058,12 +3908,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "おこない",
-        originals: [
-            "行い",
-        ]
-    },
-    {
         normalized: "おさなこ",
         originals: [
             "幼子",
@@ -4076,28 +3920,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "おさまり",
-        originals: [
-            "おさまり",
-            "収まり",
-        ]
-    },
-    {
-        normalized: "おしあい",
-        originals: [
-            "押し合い",
-        ]
-    },
-    {
         normalized: "おしいれ",
         originals: [
             "押し入れ",
-        ]
-    },
-    {
-        normalized: "おしうり",
-        originals: [
-            "押し売り",
         ]
     },
     {
@@ -4197,21 +4022,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "おつかけ",
-        originals: [
-            "追っ掛け",
-        ]
-    },
-    {
         normalized: "おつくう",
         originals: [
             "おっくう",
-        ]
-    },
-    {
-        normalized: "おつはい",
-        originals: [
-            "おっぱい",
         ]
     },
     {
@@ -4455,12 +4268,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "おりあい",
-        originals: [
-            "折り合い",
-        ]
-    },
-    {
         normalized: "おりかみ",
         originals: [
             "折り紙",
@@ -4676,12 +4483,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "かいおき",
-        originals: [
-            "買い置き",
-        ]
-    },
-    {
         normalized: "かいかい",
         originals: [
             "開会",
@@ -4693,12 +4494,6 @@ const ANSWERS = [
         originals: [
             "改革",
             "外角",
-        ]
-    },
-    {
-        normalized: "かいかた",
-        originals: [
-            "買い方",
         ]
     },
     {
@@ -4803,12 +4598,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "かいしめ",
-        originals: [
-            "買い占め",
-        ]
-    },
-    {
         normalized: "かいしや",
         originals: [
             "会社",
@@ -4907,18 +4696,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "かいたし",
-        originals: [
-            "買い出し",
-        ]
-    },
-    {
-        normalized: "かいため",
-        originals: [
-            "買いだめ",
-        ]
-    },
-    {
         normalized: "かいたん",
         originals: [
             "会談",
@@ -4942,12 +4719,6 @@ const ANSWERS = [
         normalized: "かいつか",
         originals: [
             "貝塚",
-        ]
-    },
-    {
-        normalized: "かいつけ",
-        originals: [
-            "買い付け",
         ]
     },
     {
@@ -6228,12 +5999,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "かねあい",
-        originals: [
-            "兼ね合い",
-        ]
-    },
-    {
         normalized: "かねかし",
         originals: [
             "金貸し",
@@ -6348,12 +6113,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "かみあい",
-        originals: [
-            "かみ合い",
-        ]
-    },
-    {
         normalized: "かみかせ",
         originals: [
             "神風",
@@ -6418,19 +6177,6 @@ const ANSWERS = [
         normalized: "かやつく",
         originals: [
             "カヤック",
-        ]
-    },
-    {
-        normalized: "からあき",
-        originals: [
-            "がらあき",
-            "がら空き",
-        ]
-    },
-    {
-        normalized: "からうり",
-        originals: [
-            "空売り",
         ]
     },
     {
@@ -6545,12 +6291,6 @@ const ANSWERS = [
         normalized: "かりとり",
         originals: [
             "刈り取り",
-        ]
-    },
-    {
-        normalized: "かりぬい",
-        originals: [
-            "仮縫い",
         ]
     },
     {
@@ -7358,12 +7098,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "きつかい",
-        originals: [
-            "気遣い",
-        ]
-    },
-    {
         normalized: "きつかけ",
         originals: [
             "切っ掛け",
@@ -7946,18 +7680,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "きりうり",
-        originals: [
-            "切り売り",
-        ]
-    },
-    {
-        normalized: "きりかえ",
-        originals: [
-            "切り替え",
-        ]
-    },
-    {
         normalized: "きりかふ",
         originals: [
             "切り株",
@@ -8344,12 +8066,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "くいかけ",
-        originals: [
-            "食いかけ",
-        ]
-    },
-    {
         normalized: "くいこみ",
         originals: [
             "食い込み",
@@ -8365,12 +8081,6 @@ const ANSWERS = [
         normalized: "くいつき",
         originals: [
             "食い付き",
-        ]
-    },
-    {
-        normalized: "くいにけ",
-        originals: [
-            "食い逃げ",
         ]
     },
     {
@@ -8480,12 +8190,6 @@ const ANSWERS = [
         normalized: "くうろん",
         originals: [
             "空論",
-        ]
-    },
-    {
-        normalized: "くきつけ",
-        originals: [
-            "くぎ付け",
         ]
     },
     {
@@ -8842,12 +8546,6 @@ const ANSWERS = [
         normalized: "くみたて",
         originals: [
             "くみたて",
-        ]
-    },
-    {
-        normalized: "くみわけ",
-        originals: [
-            "組み分け",
         ]
     },
     {
@@ -12671,12 +12369,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "さんつけ",
-        originals: [
-            "さん付け",
-        ]
-    },
-    {
         normalized: "さんてい",
         originals: [
             "暫定",
@@ -13548,12 +13240,6 @@ const ANSWERS = [
         originals: [
             "しば刈り",
             "芝刈り",
-        ]
-    },
-    {
-        normalized: "しはらい",
-        originals: [
-            "支払い",
         ]
     },
     {
@@ -15889,12 +15575,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "すしつめ",
-        originals: [
-            "すし詰め",
-        ]
-    },
-    {
         normalized: "すしよう",
         originals: [
             "頭上",
@@ -16490,7 +16170,6 @@ const ANSWERS = [
         originals: [
             "正装",
             "清掃",
-            "精巣",
             "製造",
         ]
     },
@@ -16831,12 +16510,6 @@ const ANSWERS = [
         normalized: "せきとう",
         originals: [
             "赤道",
-        ]
-    },
-    {
-        normalized: "せきとめ",
-        originals: [
-            "せき止め",
         ]
     },
     {
@@ -17870,12 +17543,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "そうなめ",
-        originals: [
-            "総なめ",
-        ]
-    },
-    {
         normalized: "そうなん",
         originals: [
             "遭難",
@@ -18807,12 +18474,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "たきあい",
-        originals: [
-            "抱き合い",
-        ]
-    },
-    {
         normalized: "たきこみ",
         originals: [
             "炊き込み",
@@ -19061,13 +18722,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "たちあい",
-        originals: [
-            "立ち会い",
-            "立ち合い",
-        ]
-    },
-    {
         normalized: "たちあけ",
         originals: [
             "立ち上げ",
@@ -19101,12 +18755,6 @@ const ANSWERS = [
         normalized: "たちきき",
         originals: [
             "立ち聞き",
-        ]
-    },
-    {
-        normalized: "たちくい",
-        originals: [
-            "立ち食い",
         ]
     },
     {
@@ -19237,19 +18885,6 @@ const ANSWERS = [
         normalized: "たつりん",
         originals: [
             "脱輪",
-        ]
-    },
-    {
-        normalized: "たてうり",
-        originals: [
-            "建て売り",
-        ]
-    },
-    {
-        normalized: "たてかえ",
-        originals: [
-            "建て替え",
-            "立て替え",
         ]
     },
     {
@@ -19473,12 +19108,6 @@ const ANSWERS = [
         normalized: "ためくち",
         originals: [
             "ため口",
-        ]
-    },
-    {
-        normalized: "ためらい",
-        originals: [
-            "ためらい",
         ]
     },
     {
@@ -20542,18 +20171,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "つきあい",
-        originals: [
-            "付き合い",
-        ]
-    },
-    {
-        normalized: "つきそい",
-        originals: [
-            "付き添い",
-        ]
-    },
-    {
         normalized: "つきたし",
         originals: [
             "継ぎ足し",
@@ -20587,12 +20204,6 @@ const ANSWERS = [
         normalized: "つくたに",
         originals: [
             "つくだ煮",
-        ]
-    },
-    {
-        normalized: "つくない",
-        originals: [
-            "償い",
         ]
     },
     {
@@ -20761,12 +20372,6 @@ const ANSWERS = [
         normalized: "つらなり",
         originals: [
             "連なり",
-        ]
-    },
-    {
-        normalized: "つりあい",
-        originals: [
-            "釣り合い",
         ]
     },
     {
@@ -21316,12 +20921,6 @@ const ANSWERS = [
         normalized: "てたらめ",
         originals: [
             "でたらめ",
-        ]
-    },
-    {
-        normalized: "てちかい",
-        originals: [
-            "手違い",
         ]
     },
     {
@@ -22919,18 +22518,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "とまとい",
-        originals: [
-            "戸惑い",
-        ]
-    },
-    {
-        normalized: "とむらい",
-        originals: [
-            "弔い",
-        ]
-    },
-    {
         normalized: "とめかね",
         originals: [
             "留め金",
@@ -23024,12 +22611,6 @@ const ANSWERS = [
         normalized: "とらんふ",
         originals: [
             "トランプ",
-        ]
-    },
-    {
-        normalized: "とりあい",
-        originals: [
-            "取り合い",
         ]
     },
     {
@@ -23156,12 +22737,6 @@ const ANSWERS = [
         normalized: "とりまき",
         originals: [
             "取り巻き",
-        ]
-    },
-    {
-        normalized: "とりやめ",
-        originals: [
-            "取りやめ",
         ]
     },
     {
@@ -23588,18 +23163,6 @@ const ANSWERS = [
         normalized: "なきむし",
         originals: [
             "泣き虫",
-        ]
-    },
-    {
-        normalized: "なくさめ",
-        originals: [
-            "慰め",
-        ]
-    },
-    {
-        normalized: "なけうり",
-        originals: [
-            "投げ売り",
         ]
     },
     {
@@ -24563,12 +24126,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "ねきらい",
-        originals: [
-            "ねぎらい",
-        ]
-    },
-    {
         normalized: "ねくすれ",
         originals: [
             "値崩れ",
@@ -25093,12 +24650,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "のみくい",
-        originals: [
-            "飲み食い",
-        ]
-    },
-    {
         normalized: "のみくち",
         originals: [
             "飲み口",
@@ -25138,12 +24689,6 @@ const ANSWERS = [
         normalized: "のらねこ",
         originals: [
             "野良猫",
-        ]
-    },
-    {
-        normalized: "のりあい",
-        originals: [
-            "乗り合い",
         ]
     },
     {
@@ -25818,12 +25363,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "はしらい",
-        originals: [
-            "恥じらい",
-        ]
-    },
-    {
         normalized: "はすたふ",
         originals: [
             "バスタブ",
@@ -25875,12 +25414,6 @@ const ANSWERS = [
         normalized: "はちうえ",
         originals: [
             "鉢植え",
-        ]
-    },
-    {
-        normalized: "はちかい",
-        originals: [
-            "場違い",
         ]
     },
     {
@@ -26533,12 +26066,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "はりあい",
-        originals: [
-            "張り合い",
-        ]
-    },
-    {
         normalized: "はりうむ",
         originals: [
             "バリウム",
@@ -27079,12 +26606,6 @@ const ANSWERS = [
         normalized: "ひきしお",
         originals: [
             "引き潮",
-        ]
-    },
-    {
-        normalized: "ひきしめ",
-        originals: [
-            "引き締め",
         ]
     },
     {
@@ -28548,12 +28069,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "ふはらい",
-        originals: [
-            "不払い",
-        ]
-    },
-    {
         normalized: "ふひよう",
         originals: [
             "不評",
@@ -28769,21 +28284,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "ふるまい",
-        originals: [
-            "振る舞い",
-        ]
-    },
-    {
         normalized: "ふるもの",
         originals: [
             "古物",
-        ]
-    },
-    {
-        normalized: "ふれあい",
-        originals: [
-            "触れ合い",
         ]
     },
     {
@@ -29289,12 +28792,6 @@ const ANSWERS = [
         normalized: "へたほれ",
         originals: [
             "べたぼれ",
-        ]
-    },
-    {
-        normalized: "へつうり",
-        originals: [
-            "別売り",
         ]
     },
     {
@@ -30689,12 +30186,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "まえうり",
-        originals: [
-            "前売り",
-        ]
-    },
-    {
         normalized: "まえおき",
         originals: [
             "前置き",
@@ -30758,12 +30249,6 @@ const ANSWERS = [
         normalized: "まきかい",
         originals: [
             "巻き貝",
-        ]
-    },
-    {
-        normalized: "まきこみ",
-        originals: [
-            "巻き込み",
         ]
     },
     {
@@ -30947,24 +30432,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "まちあい",
-        originals: [
-            "待合い",
-        ]
-    },
-    {
-        normalized: "まちかい",
-        originals: [
-            "間違い",
-        ]
-    },
-    {
-        normalized: "まちかえ",
-        originals: [
-            "間違え",
-        ]
-    },
-    {
         normalized: "まちかと",
         originals: [
             "街角",
@@ -31100,12 +30567,6 @@ const ANSWERS = [
         normalized: "まなさし",
         originals: [
             "まな差し",
-        ]
-    },
-    {
-        normalized: "まにあい",
-        originals: [
-            "間に合い",
         ]
     },
     {
@@ -31436,12 +30897,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "みえみえ",
-        originals: [
-            "見え見え",
-        ]
-    },
-    {
         normalized: "みおくり",
         originals: [
             "見送り",
@@ -31460,21 +30915,9 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "みおとり",
-        originals: [
-            "見劣り",
-        ]
-    },
-    {
         normalized: "みおほえ",
         originals: [
             "見覚え",
-        ]
-    },
-    {
-        normalized: "みかえし",
-        originals: [
-            "見返し",
         ]
     },
     {
@@ -31556,18 +30999,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "みきわき",
-        originals: [
-            "右わき",
-        ]
-    },
-    {
-        normalized: "みきわめ",
-        originals: [
-            "見極め",
-        ]
-    },
-    {
         normalized: "みくるみ",
         originals: [
             "身ぐるみ",
@@ -31607,12 +31038,6 @@ const ANSWERS = [
         normalized: "みすあか",
         originals: [
             "水あか",
-        ]
-    },
-    {
-        normalized: "みすあけ",
-        originals: [
-            "水揚げ",
         ]
     },
     {
@@ -31679,12 +31104,6 @@ const ANSWERS = [
         normalized: "みすくさ",
         originals: [
             "水草",
-        ]
-    },
-    {
-        normalized: "みすくみ",
-        originals: [
-            "水くみ",
         ]
     },
     {
@@ -33236,12 +32655,6 @@ const ANSWERS = [
         ]
     },
     {
-        normalized: "もみあい",
-        originals: [
-            "もみ合い",
-        ]
-    },
-    {
         normalized: "もみあけ",
         originals: [
             "もみ上げ",
@@ -33689,12 +33102,6 @@ const ANSWERS = [
         normalized: "やまさと",
         originals: [
             "山里",
-        ]
-    },
-    {
-        normalized: "やまつみ",
-        originals: [
-            "山積み",
         ]
     },
     {
@@ -34654,12 +34061,6 @@ const ANSWERS = [
         normalized: "よそいき",
         originals: [
             "よそ行き",
-        ]
-    },
-    {
-        normalized: "よそおい",
-        originals: [
-            "装い",
         ]
     },
     {
@@ -36126,12 +35527,6 @@ const ANSWERS = [
         normalized: "わりかん",
         originals: [
             "割り勘",
-        ]
-    },
-    {
-        normalized: "わりこみ",
-        originals: [
-            "割り込み",
         ]
     },
     {
